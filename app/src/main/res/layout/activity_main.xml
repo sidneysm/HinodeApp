@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cadastrar_produto"
+        android:onClick="selecionarOpcao"
+        android:id="@+id/btCadatrarProduto" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listar_produtos"
+        android:onClick="selecionarOpcao"
+        android:id="@+id/btListarProdutos" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cadastrar_cliente"
+        android:onClick="selecionarOpcao"
+        android:id="@+id/btCadatrarCliente" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listar_clientes"
+        android:onClick="selecionarOpcao"
+        android:id="@+id/btListarClientes" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Efetuar venda"
+        android:onClick="selecionarOpcao"
+        android:id="@+id/btEfetuarVenda"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar vendas"
+        android:id="@+id/btMostrarVendas"
+        android:onClick="selecionarOpcao"/>
+
+</LinearLayout>

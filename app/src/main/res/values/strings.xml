@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hinode</string>
+
+    <string name="cadastrar_produto">Cadastrar Novo Produto</string>
+    <string name="listar_produtos">Listar Produtos</string>
+    <string name="nome">Nome</string>
+    <string name="codigo">Codigo</string>
+    <string name="preco">Preço</string>
+    <string name="categoria">Categoria</string>
+    <string name="action_settings">Settings</string>
+    <string name="descricao">Descrição</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="produto_salvo">Produto Salvo</string>
+    <string name="erro_salvar">Erro ao salvar!</string>
+    <string name="telefone">telefone</string>
+    <string name="clinte_cadastro_sucesso">Cadastrar novo cliente</string>
+
+    <string-array name="categoria_produto">
+        <item>Bem Estar</item>
+        <item>Rosto</item>
+        <item>Cabelo</item>
+        <item>Corpo</item>
+        <item>Fragrância</item>
+        <item>Empório</item>
+    </string-array>
+    <string name="title_activity_produto_list">ProdutoListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cadastro_cliente">Cadastro de Cliente</string>
+    <string name="cadastrar_cliente">Cadastar Cliente</string>
+    <string name="listar_clientes">Listar Clientes</string>
+    <string name="title_activity_cliente_list_actvity">Lista de Clientes</string>
+    <string name="title_activity_efetuar_vendas">EfetuarVendasActivity</string>
+    <string name="title_activity_selecionar_produto">Selecionar Produto</string>
+    <string name="title_activity_selicionar_cliente">Selicionar Cliente Activity</string>
+    <string name="title_activity_vendas_list">Vendas</string>
+</resources>
